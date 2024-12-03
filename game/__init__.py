@@ -1,0 +1,1 @@
+"""PythonGenePlague: 一个受到Plague Inc.游戏启发制作小Python游戏."""
